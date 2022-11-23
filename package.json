@@ -31,7 +31,7 @@
     },
     "homepage": "https://github.com/juhoen/hybrid-crypto-js",
     "dependencies": {
-        "node-forge": "^0.8.5"
+        "node-forge": "^1.0.0"
     },
     "devDependencies": {
         "@babel/cli": "^7.5.5",
